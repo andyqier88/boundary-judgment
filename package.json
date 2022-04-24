@@ -1,0 +1,26 @@
+{
+  "name": "boundary-judgment",
+  "version": "1.0.0",
+  "description": "boundary-judgment",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyqier88/boundary-judgment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andyqier88/boundary-judgment/issues"
+  },
+  "homepage": "https://github.com/andyqier88/boundary-judgment#readme",
+  "devDependencies": {
+    "@babel/core": "^7.17.9",
+    "@babel/preset-env": "^7.16.11",
+    "babel-jest": "^27.5.1",
+    "jest": "^27.5.1"
+  }
+}
