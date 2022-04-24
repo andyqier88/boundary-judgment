@@ -13,6 +13,6 @@ use fileExistsWithCaseSync
 ```
 import fileExistsWithCaseSync from './fileExistsWithCaseSync/fileExistsWithCaseSync'
 
-console.log(fs.existsSync('README.md')); // true
-console.log(fs.existsSync('readme.md')); // false
+console.log(fileExistsWithCaseSync('README.md')); // true
+console.log(fileExistsWithCaseSync('readme.md')); // false
 ```
