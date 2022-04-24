@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/andyqier88/boundary-judgment.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["boundary-judgment"],
+  "author": "王英琦 Dack Wang",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/andyqier88/boundary-judgment/issues"
