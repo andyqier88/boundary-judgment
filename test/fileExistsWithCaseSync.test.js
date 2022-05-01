@@ -1,4 +1,4 @@
-import fileExistsWithCaseSync from './../lib/fileExistsWithCaseSync/fileExistsWithCaseSync.js'
+import { fileExistsWithCaseSync } from './../lib/fileExistsWithCaseSync/fileExistsWithCaseSync.js'
 
 
 
