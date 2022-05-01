@@ -12,6 +12,6 @@ npm run test
 ## Finished
 - [x] fileExistsWithCaseSync
 - [x] hasOwnProperty
-
+- [x] isBrowser
 ## Todo
 Welcome to commit issue & PR
