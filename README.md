@@ -2,7 +2,7 @@
 [![npm][npm-img]][npm-url]
 [![node][node-img]][node-url]
 
-The goals of this library is to collect some boundary-judgments when we make our code more robust
+Collecting some boundary-judgments is our goals of this library especially when we need to make our code more robust.
 
 ## How this library come from
 When I read some source codes in other librarys, I found some boundary-judgments may be helpful in my project
