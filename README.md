@@ -1,6 +1,11 @@
 # Boundary-judgment library 📦
 [![npm][npm-img]][npm-url]
 [![node][node-img]][node-url]
+<a href="http://makeapullrequest.com">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
+  </a>
+
+[English](./README.md) | [简体中文](./README.cn.md)
 
 Collecting some boundary-judgments is our goals of this library especially when we need to make our code more robust.
 
