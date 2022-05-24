@@ -1,6 +1,5 @@
-import { isBrowser } from '../lib/isBrowser'
+import { isBrowser } from "../lib/isBrowser";
 
-
-test('detects browser-like environment', () => {
-    expect(isBrowser).toBe(false);
-  });
+test("detects browser-like environment", () => {
+  expect(isBrowser).toBe(false);
+});

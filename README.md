@@ -24,6 +24,7 @@ npm run test
 - [x] fileExistsWithCaseSync
 - [x] hasOwnProperty
 - [x] isBrowser
+- [x] isSupportFetch
 
 ## Todo
 Welcome to commit issue & PR
