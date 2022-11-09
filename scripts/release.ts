@@ -6,11 +6,9 @@ import path from 'path';
 
 import {
   args,
-  getPackageInfo,
   getVersionChoices,
   isDryRun,
   logRecentCommits,
-  packages,
   run,
   runIfNotDry,
   step,

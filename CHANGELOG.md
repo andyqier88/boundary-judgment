@@ -1,3 +1,7 @@
+## [1.0.10](https://github.com/andyqier88/boundary-judgment/compare/boundary-judgment@1.0.9...boundary-judgment@1.0.10) (2022-11-09)
+
+
+
 ## 1.0.9 (2022-10-20)
 
 
