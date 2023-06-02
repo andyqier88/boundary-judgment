@@ -25,6 +25,7 @@ npm run test
 - [x] hasOwnProperty
 - [x] isBrowser
 - [x] isSupportFetch
+- [x] svg DOM parse
 
 ## Todo
 Welcome to commit issue & PR
