@@ -22,6 +22,7 @@ npm run test
 - [x] hasOwnProperty
 - [x] isBrowser
 - [x] isSupportFetch
+- [x] svg DOM parse
 ## 待完成
 Welcome to commit issue & PR
 
