@@ -26,6 +26,7 @@ npm run test
 - [x] isBrowser
 - [x] isSupportFetch
 - [x] svg DOM parse
+- [x] win/mac platform
 
 ## Todo
 Welcome to commit issue & PR
