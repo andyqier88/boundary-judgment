@@ -23,6 +23,8 @@ npm run test
 - [x] isBrowser
 - [x] isSupportFetch
 - [x] svg DOM parse
+- [x] win/mac platform
+
 ## 待完成
 Welcome to commit issue & PR
 
